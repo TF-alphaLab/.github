@@ -14,7 +14,7 @@
 
 </aside>
 
-## 我们现阶段的想法是：
+## 现阶段的想法：
 
 ```mermaid
 graph TD
